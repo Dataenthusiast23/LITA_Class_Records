@@ -14,6 +14,8 @@
 
 [Data Analysis](#data-analysis)
 
+[Data Visualization](#data-visualization)
+
 ### Project Overview
 ---
 The objective of this Data Analysis project is to gain insight into the Sales activities of the Walmart Store over the past four years 2011- 2014. by analysing the various parameter in the dataset received I try to gather sufficient insight to make reasonable decisions which then enable me to tell captivating stories around the data from the insight gained and to know the best performance from the dataset.  
@@ -53,7 +55,7 @@ This is where we include some basic lines of code or queries or even some of the
 SELECT * FROM TABLE1
 WHERE CONDITION =TRUE
 ```
-### Data Visualizatiom
+### Data Visualization
 ---
 
 
