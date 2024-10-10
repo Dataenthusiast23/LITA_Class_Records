@@ -8,6 +8,8 @@
 
 [Tools Used](#tools-used)
 
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
 
 
 ### Project Overview
