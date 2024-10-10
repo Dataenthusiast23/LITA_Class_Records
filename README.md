@@ -6,7 +6,7 @@
 
 [Data Sources](#data-sources)
 
-[Tools Used](#tool-used)
+[Tools Used](#tools-used)
 
 [Data Cleaning and Preparations](data-cleaning-and-preparation)
 
