@@ -1,4 +1,4 @@
 # LITA_Class_Records
-This is where you find records of my practice project while learning Data Analysis with the incubator Hub
+This is where i documented my first project while learning Data Analysis with the Incubator Hub
 
-### Project Title: Amazon Sales Analysis Report for  2011-2014
+### Project Title: Amazon Sales Analysis Report
