@@ -32,7 +32,7 @@ The primary source of Data used here is Data Sale.csv and this is an open source
     3. For Data Visualisation
 - GitHub for Portfolio Building
 
-  ### Data Cleaning and Preparations
+### Data Cleaning and Preparations
   ---
   In the initial phase of the Data cleaning and preparations, I performed the following actions;
   
@@ -48,7 +48,7 @@ EDA involves the exploring of the Data to answer some questions about the Data s
 -  which Geographical locations have peak sales
 -  which product have the highest sales
 
-  ### Data Analysis
+### Data Analysis
   ---
   This is where I include some basic lines of code or queries or even some of the DAX expresions used 
   during my analysis;
