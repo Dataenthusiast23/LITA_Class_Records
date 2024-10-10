@@ -10,7 +10,7 @@
 
 [Data Cleaning and Preparations](#data-cleaning-and-preparations)
 
-
+[Exploratory Data Analysis](#exploratory-data-analysis)
 
 ### Project Overview
 ---
