@@ -18,11 +18,24 @@
 
 ### Project Overview
 ---
-The objective of this Data Analysis project is to gain insight into the Sales activities of the Walmart Store over the past four years 2011- 2014. by analysing the various parameter in the dataset received I try to gather sufficient insight to make reasonable decisions which then enable me to tell captivating stories around the data from the insight gained and to know the best performance from the dataset.  
+The objective of this project is to gain insight into the Sales activities of the Walmart Store over the past four years (2011- 2014) by analysing the various parameter in the dataset received. The aim is to gain insight to the Revenue, Quantity sold, Geographical Sales & profit by category. The analysis focuses on findng insight on the various performances 
+ and key metrics such as top performing category by Sale.  
 
 ### Data Sources
 ---
-The primary source of Data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as Kaggle or FRED or any other data repository site.
+The primary source of Data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as Kaggle or FRED or any other data repository site. The dataset include the following columns:
+
+   1. Geography
+   2. Category
+   3. Quantity
+   4. Profit
+   5. Sales
+---
+### Project Objjectives
+
+ This project was designed in tackilng the following issues:
+
+ 
 
 ### Tools Used
 ---
