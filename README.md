@@ -10,13 +10,12 @@
 
 [Tools and Methods Used](#tools-dnd-methods-used)
 
-[Data Cleaning and Preparations](#data-cleaning-and-preparations)
-
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Data Analysis](#data-analysis)
+[Formula Used](formula-used)
 
-[Data Visualization](#data-visualization)
+[Data usage](data-usage)
+
 
 ### Project Overview
 ---
@@ -71,7 +70,7 @@ EDA Involved the exploring of the data to answer some questions about the Data s
     Average Revenue = Total Sales / Cateory (units sold)
   ```
 
-### Data Information 
+### Data Usage 
 ---
 
    - Total Revenue: represents the total Sales by all the geographical locations with respect to categories at the
@@ -82,4 +81,6 @@ EDA Involved the exploring of the data to answer some questions about the Data s
    
    - Sales by Category: represents the categories with the best performance in Sales
 
-   
+### Visual Analysis and Inference
+
+  1. Total Revenue (2011-2014)
