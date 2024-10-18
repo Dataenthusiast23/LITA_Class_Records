@@ -45,20 +45,16 @@ The primary source of Data used here is Data Sale.csv and this is an open source
    -Category by Sales: Analyze the amount made by each category of the business in the 
     years underreview.
   
-### Tools Used
+### Tools and Methods Used
 ---
 - Microsoft Excel [Download Here](https://www.microsoft.com)
-    1. For Data claening
-    2. For Analysis
-    3. For Data Visualisation
-- GitHub for Portfolio Building
+    
+     1. For Analysis
+     2. For Data Visualisation
+     - GitHub for Portfolio Building
 
-### Data Cleaning and Preparations
-  ---
-In the initial phase of the Data cleaning and preparations, I performed the following actions;
- 1. Data loading and Inspection
- 2. Handling missing variables
- 3. Data Cleaning and formatting 
+
+
 
 ### Exploratory Data Analysis
 ---
