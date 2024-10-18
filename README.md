@@ -6,6 +6,8 @@
 
 [Data Sources](#data-sources)
 
+[Project Objectives](#project-objectives)
+
 [Tools Used](#tools-used)
 
 [Data Cleaning and Preparations](#data-cleaning-and-preparations)
