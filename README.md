@@ -8,7 +8,7 @@
 
 [Project Objectives](#project-objectives)
 
-[Tools Used](#tools-used)
+[Tools and Methods Used](#tools-dnd-methods-used)
 
 [Data Cleaning and Preparations](#data-cleaning-and-preparations)
 
