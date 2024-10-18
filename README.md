@@ -49,8 +49,11 @@ The primary source of Data used here is Data Sale.csv and this is an open source
 ---
 - Microsoft Excel [Download Here](https://www.microsoft.com)
     
-     1. For Analysis
-     2. For Data Visualisation
+     -Data Analysis: This was achieved using Microsoft Excel, using Pivot Tables for summaring and
+      filtering for easy interpretation. 
+     
+     -Data Visualisation: Charts wew created in Excel to visually represent the Key insights. 
+    
      - GitHub for Portfolio Building
 
 
