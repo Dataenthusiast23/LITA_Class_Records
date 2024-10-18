@@ -84,3 +84,5 @@ EDA Involved the exploring of the data to answer some questions about the Data s
 ### Visual Analysis and Inference
 
   1. Total Revenue (2011-2014)
+
+ ## Pivot Table:
