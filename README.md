@@ -68,17 +68,18 @@ EDA Involved the exploring of the data to answer some questions about the Data s
 ---
 
   ```
-Average Revenue =
-Total Sales / Cateory (units sold)
+    Average Revenue = Total Sales / Cateory (units sold)
   ```
 
-
-```SQL
-SELECT * FROM TABLE1
-WHERE CONDITION =TRUE
-```
-### Data Visualization
+### Data Information 
 ---
 
+   - Total Revenue: represents the total Sales by all the geographical locations with respect to categories at the
+     Store in the four years of the dataset.
 
+  -  Geographical Revenue: this gives understanding to how the geographical locations contributed to the overall
+     Sales generated 
+   
+   - Sales by Category: represents the categories with the best performance in Sales
 
+   
