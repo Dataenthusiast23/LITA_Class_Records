@@ -81,21 +81,32 @@ EDA Involved the exploring of the data to answer some questions about the Data s
    
    - Revenue by Category: represents the categories with the best performance in Sales
 
-### Visual Analysis and Inference
+### Data Visualization:
 
   1. Total Revenue (2011-2014)
 
- ## Data Visualization:
 
-
-
+ 
 ![Walmart Store Revenue ](https://github.com/user-attachments/assets/a5f719ea-4827-48a3-a65b-064473553961)
 
 
 
 
 
+2.  Top 10 Geographical location by Revenue
+
+
 ![Walwart mart Top 10](https://github.com/user-attachments/assets/04f1f5a1-e5b6-42ae-be87-922af901644a)
+
+
+
+
+
+3. Revenue by Category
+
+
+![Walmart Store Revenue by Category](https://github.com/user-attachments/assets/bc18d8da-3a2c-41bf-a858-27ad4f335114)
+
 
 
 
