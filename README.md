@@ -85,19 +85,20 @@ EDA Involved the exploring of the data to answer some questions about the Data s
 
   1. Total Revenue (2011-2014)
 
- ## Pivot Table:
-
-![Walmart Store Total Revenue](https://github.com/user-attachments/assets/361180b8-5498-41ec-9ded-20dbdb790ebc)
+ ## Data Visualization:
 
 
 
-
-![Pivot Table Top 10 Geo location](https://github.com/user-attachments/assets/1468e924-89e6-446f-9d5d-87c1cd5ae23a)
+![Walmart Store Revenue ](https://github.com/user-attachments/assets/a5f719ea-4827-48a3-a65b-064473553961)
 
 
 
 
-![Walmart Store Revenue by Cate png](https://github.com/user-attachments/assets/806d9448-2642-4e0e-8362-b968aee00028)
+
+![Walwart mart Top 10](https://github.com/user-attachments/assets/04f1f5a1-e5b6-42ae-be87-922af901644a)
+
+
+
 
 
 
