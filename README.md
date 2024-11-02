@@ -88,7 +88,15 @@ EDA Involved the exploring of the data to answer some questions about the Data s
  ## Pivot Table:
 
 ![Walmart Store Total Revenue](https://github.com/user-attachments/assets/361180b8-5498-41ec-9ded-20dbdb790ebc)
+
+
+
+
 ![Pivot Table Top 10 Geo location](https://github.com/user-attachments/assets/1468e924-89e6-446f-9d5d-87c1cd5ae23a)
+
+
+
+
 ![Walmart Store Revenue by Cate png](https://github.com/user-attachments/assets/806d9448-2642-4e0e-8362-b968aee00028)
 
 
