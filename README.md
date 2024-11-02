@@ -86,3 +86,8 @@ EDA Involved the exploring of the data to answer some questions about the Data s
   1. Total Revenue (2011-2014)
 
  ## Pivot Table:
+
+![Walmart Store Total Revenue](https://github.com/user-attachments/assets/361180b8-5498-41ec-9ded-20dbdb790ebc)
+
+
+
