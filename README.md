@@ -4,7 +4,7 @@
 
 [Project Overview](#project-overview)
 
-[Data Sources](#data-sources)
+[Data Source](#data-source)
 
 [Project Objectives](#project-objectives)
 
